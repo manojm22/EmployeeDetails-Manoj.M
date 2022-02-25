@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/EmployeeDetails-Manoj.M/static/css/main.e6c13ad2.css",
+    "main.js": "/EmployeeDetails-Manoj.M/static/js/main.b5f516c7.js",
+    "static/js/787.ff0d3613.chunk.js": "/EmployeeDetails-Manoj.M/static/js/787.ff0d3613.chunk.js",
+    "index.html": "/EmployeeDetails-Manoj.M/index.html",
+    "main.e6c13ad2.css.map": "/EmployeeDetails-Manoj.M/static/css/main.e6c13ad2.css.map",
+    "main.b5f516c7.js.map": "/EmployeeDetails-Manoj.M/static/js/main.b5f516c7.js.map",
+    "787.ff0d3613.chunk.js.map": "/EmployeeDetails-Manoj.M/static/js/787.ff0d3613.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.b5f516c7.js"
+  ]
+}
